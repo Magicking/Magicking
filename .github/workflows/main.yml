@@ -28,7 +28,7 @@ jobs:
 
           # Options
           user: Magicking
-          template: classic
+          template: terminal
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Paris
           plugin_achievements: yes
@@ -40,7 +40,6 @@ jobs:
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_sections: repositories
-          plugin_fortune: yes
           plugin_gists: yes
           plugin_habits: yes
           plugin_habits_charts_type: classic
