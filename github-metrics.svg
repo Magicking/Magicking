@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 104 users
+                            Followed by 105 users
                         </div>
                     </section>
                     <section>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.47m added, 2.35m removed
+                                    3.51m added, 2.34m removed
                                 </div>
                             </section>
                             <section>
@@ -480,7 +480,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~1.96
+                            Average per day at ~1.98
                         </div>
                     </section>
                 </div>
@@ -1377,10 +1377,10 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4615384615384617 0,1.4615384615384617 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4615384615384617 1.7,2.4615384615384617 z"/>
                             </g>
-                            <g transform="translate(-8.5, 9.153846153846153)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.8461538461538463 0,2.8461538461538463 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.8461538461538463 1.7,3.8461538461538463 z"/>
+                            <g transform="translate(-8.5, 6.846153846153847)">
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,6.153846153846153 0,5.153846153846153 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.153846153846153 1.7,6.153846153846153 z"/>
                             </g>
                             <g transform="translate(-10.2, 11.076923076923077)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1873,32 +1873,32 @@
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="64" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="79" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="64" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="79" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="94" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                                 <g transform="translate(675, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="49" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="49" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="94" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                                 <g transform="translate(690, 0)">
-                                    <rect class="day" x="0" y="4" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="4" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="94" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="94" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                                 <g transform="translate(705, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -1922,10 +1922,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    104 followers
+                    105 followers
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAACk0lEQVR4nJ3Tu4/TQBDAYcfhnHh3vetHcneCy8N5+ZlUQAEFDRVQQkFHQYO4AlGAdD1Q0ZBDQHbHfyuadeILQQk4q59GW30e2bJh1Dxmo22Tl+3TL6SnSA/K7Au1nXHEaTdz+/Qz6d+g6PYUdnEsalkpvf2V9BXtw7oe6GesOwa1nedksLIHigxk+86yotHtH4U2DJN03tu976R/TTpX5PwTHcCOa9Q8ptlomYZtWVnbigl9SvrX9lDZQ/0qBkVJ117U9l6ctFLrZGRbsR28IaEiIZCRoqFuqEhYc1OzwelwSUOprV8slHQEdARsDHSEHNV67U3p2Vs6BjYusAly67ROR4qN6n+opslo+INuUIo7AhsrNpE4x1jNPY1mmz9kY0knQKdApwqbKDZVzlSxybp6aEs8YmhhDENrt0ldlD9gs4JFBZ0BnYEzA6bnjmvUOuTsFYuARehu01x3JErPX7OocHSli2uiqPhmOjXRJp8uUYw1hyuDEwEvQ7FM1iAbhsmn35y4cGJwokLEBdeoiBDi5Zxh/y02rLZzl8fSiYHH4MQgYnBjFMsQ3bjGPyzTtoMnzuCDSH+KBHiiRIIWT0DECkukiKWIN2iEHTZNJ7wSKfCkEKkSqXIzJTK8iFTelFS05LpDJO0+czPwchAZuJhyMxA41/1JYzxZ8WS1V2zxe16u3LzwcnRLvbxU6I7ubh5g7Dsi/OjPi6pS3K4SPZ2bKi+VZXvepUmCfLWN7rg+TlXm58rXrp7SO7Rp/zKYF8G88BeVC8EcfEwFOYZcddGon0kv2482jCYNHnfmMlgUnQX4CxRv0tbf+Zn0D6DlscX9TrrsoqubQ5mmVUdXG8Uf/pbvDd91F0VZ5XbXl123k6vfFjI9CpWusjYAAAAASUVORK5CYII=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABQYHAQQI/8QALRAAAQMDAwIEBQUAAAAAAAAAAQIDBAURIQAGEhMxIlFhcQcIFEHwMkORscH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AoHxun1OF8MZJoiltPvPtMOOt4KGyc5+1zYX9dB/l/cfbjSYUtyU499PzUVvrcbve3Y34n2tfOnB6W3WYbtPcW4204OBA/cHvrf2nR4W3YkiPCR4yAtTpyVD7f7oIvXWLb1jJI8BVkgds9/607USPHajOG6Eh1fUGDkEDOknfYp1M3O+ucQ8ZQEiO5deGyTjHkbjRikVOFNpzDiYT8gJHDkhThCbHt3/L6Bk23UYcyjrYlyY7d/0lR8Y9rfmdEKxuKDQqU+7IntrLyeg0lJ5km2LDvYeeuTZaHJu52UrkyG+s8hlRaXxIT5DV7Z2vB2tHfVRlyG5DcPrmQ6oOurVbsVLBsPRNtBinbZqu46XR1bjTTWqXBBs6HF9ZSDbucADF8/xqowI/0kRuPS9uNphtDi31ZPAkeYBBNvex9NR6k7yqvRpUmUpmYt+xAfSSlo+aQkjPqbnV1o0tyVTmXXAnmoZsLDQf/9k=" width="28" height="28" alt="" />
@@ -1949,7 +1950,6 @@
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYIBAX/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMEBREABiEHEzESIkEUFVEyYXGBof/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhEDEQA/AHzs8ant5ViWm2fUPRJWnPETQPKMfJwARwM+cD99Vi68+4rRzSJHWrkhXeJRnLOB4488Z4OoBfadRHvOvvNP9nSlo6eBXUlQj+tySOB4zg8fGNHl5sVEtwkjVHzH7Gyp8j+tK9G1y25fai4IbTS2iXM9078jp2s/oROD7wDkk+fVjjXCtPT7rQXmwT08tuqSe20kbIxIYhsgj8g6BEvlyvNPeEprc1GUmiYxxyqcoRj3vjhUHPySc41Dt1Ouu1NzzJvG1r9sdCsFxpASkeflxkn0ZHkcgcYOlyWCKYHuIDrL3XCpWqu26aSqpoJuyIHhmYHux8KMBgfHuPByNUT/AFMvdfeKl/uM8Qo442qFMRM1NLISce9cg+c/yOcacOjlE1r6Z2GCsRlneAzkenHDszj/AAjWTdrW2Gu3fb7VM8wpKmpSGUI+CVJ/OtvV0S07xwQ5WOONVUD4A0o//9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABQADBAYBAgj/xAApEAACAQIEBQMFAAAAAAAAAAABAgMAEQQSITEFBhNBcSIyURQjcoGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOnaF8yYybBcKkmw4PUuBcC+W53opQ3iJmOJTpy5IgNQDu3b9UFf5Y4zNiOJRYeSd5TIHzhidLDfXarlQ+DBg4kzuE+pBv1CNfxvp2A/lEF9Sg/NA0k6EgZ472uRe9vPxUSZGzwywxmTqSGQ5G0a21TFhjhRliREV/coUWNaRYaMys/qDZRax9vigx1LkRKv3ZDeRraKO9PFwzMU2vr5pKMpUgm9KJQsSKNgKD//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAUGBwABA//EACYQAAIBAwMDBAMAAAAAAAAAAAEDAgAEEQUhQQYScRMxUYEiU2H/xAAYAQACAwAAAAAAAAAAAAAAAAADBQIEB//EACMRAAICAgECBwAAAAAAAAAAAAECAxEABAYFcRIhIjFBgeH/2gAMAwEAAhEDEQA/AJAlIPFVhBaOotVuHa40jtkQlWZCCx8bc1b6rfA3NV26EdL1d+nsisvgwTDjHJlE7jPPNN95CAoGXZqZavGvTFvbXlmxL1LulJl2LY1eTgjPPv5/tJ+pWMs9Qjb2s/QUpYiIQl2gbnjFTTpW0idNm7sCwxmRgYzj3P3vRtxZW8mktVGUjycGix65kiALEdsFsOY1BAs9rzZvo4wuJJqO6p01Z6vdG7cXLu/2rYR9eKaKOTEmiIyPpnzTySCMCmF5kexyHd2nEgbw18D2/fvM0eJ03T4WrGzaF5xIjiju8T/KJ2NL2SPzXBL5wiYxOwNRWBVHlj7pHJtpmaKb1Vn/2Q==" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA2ElEQVR4nO3TIQqEQBTG8ScKChbBYpEBLTaLOMHkEcxmT2DyAl5A0AMY9Ap6AItnMJmsWsQy25Zh4+xjt8y/zQfv1wZAJvtXhJAoivDdvu8ppcio53nbtpmmiezO81yW5VdEHMdhGPJLVVXruoqLhmHc930cBz9mWfY8j6Zp4m7btnVd80uSJIwx27YBMUopY8yyLEw0TdPzPMXvFUUZx7HrOn4simKaJnFU1/XruvZ958dhGPI8F0cBwPd913XfT8dxlmVRVRUQa5omCAJMkRDy8RFksh/1AmdmPavUeXGEAAAAAElFTkSuQmCC" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -2394,7 +2394,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="80.22613065326634 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="81.00502512562815 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2431,9 +2431,9 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 118k out of 150m users</span>
+                                    <span class="gh">ranked 116k out of 150m users</span>
                                 </div>
-                                <div class="text">Followed by 104 users</div>
+                                <div class="text">Followed by 105 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2706,7 +2706,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Dec 2024, 11:36:10 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Dec 2024, 11:44:04 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
